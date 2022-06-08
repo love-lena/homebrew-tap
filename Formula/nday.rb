@@ -1,4 +1,4 @@
-class nday < Formula
+class Nday < Formula
   desc "CLI tool for simple daily notes"
   homepage "https://github.com/love-lena/nday"
   url "https://github.com/love-lena/nday/releases/download/v0.2.0/nday-0.1.0-x86_64-apple-darwin.tar.gz"
